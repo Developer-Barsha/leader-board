@@ -237,6 +237,9 @@ footer.container>img{
 /******************** media queriessssss ***************/
 
 @media (min-width: 500px) and (max-width: 800px){
+    header{
+        display: none;
+    }
     .logo{
         padding-left: 15px;
     }
